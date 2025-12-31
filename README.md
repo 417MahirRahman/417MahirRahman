@@ -1,6 +1,6 @@
 
 <div>
-  <img src="[[https://nirzak-streak-stats.vercel.app/?user=417MahirRahman&theme=dark&hide_border=true](https://i.ibb.co.com/FksPz0Yb/webdesigner.jpg)](https://i.ibb.co.com/FksPz0Yb/webdesigner.jpg)" />
+  <img src="https://i.ibb.co.com/FksPz0Yb/webdesigner.jpg" />
 </div>
 
 ###
