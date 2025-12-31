@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://i.ibb.co.com/PZ8GCyJT/site-design-12.jpg" />
+  <img src="https://i.ibb.co.com/67QtcNzM/github-header-banner.png" />
 </div>
 
 ###
