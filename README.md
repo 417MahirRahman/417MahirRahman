@@ -27,7 +27,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Current Activity
+## 🚀 Current Activity
 <p align="left">
  I'm now exploring Next.js 
 </p>
@@ -48,7 +48,13 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: **35mahirrahman@gmail.com**
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/17mefazur-rahman/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/mahir.rahman.180624" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
 ###
