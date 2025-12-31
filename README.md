@@ -37,10 +37,11 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,html,css)](https://skillicons.dev)
-  <br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,html,css)](https://skillicons.dev)
+
 </div>
+
 
 
 ###
