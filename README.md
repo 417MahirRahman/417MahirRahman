@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hi, I'm Mefazur Rahman<br>I'm a Front-End Developer</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2CF700&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mefazur+Rahman;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a>
 
 ###
 
