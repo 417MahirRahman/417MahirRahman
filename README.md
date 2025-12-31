@@ -17,17 +17,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=417MahirRahman&theme=dark&hide_border=true" />
-
-<br/><br/>
-
-
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=417MahirRahman&theme=dark&hide_border=true" />
 </div>
 
 
