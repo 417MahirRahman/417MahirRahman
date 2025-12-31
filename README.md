@@ -2,7 +2,9 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mefazur Rahman 👋 I'm a 🚀 Full-Stack Developer">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=417MahirRahman&show_icons=true)
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=417MahirRahman&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=417MahirRahman&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <!--
 **417MahirRahman/417MahirRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
