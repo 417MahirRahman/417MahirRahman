@@ -1,10 +1,11 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+
 
 ###
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2CF700&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mefazur+Rahman;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2CF700&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Mefazur+Rahman;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a>
 </div>
+<br> <br>
 
 <hr>
 
