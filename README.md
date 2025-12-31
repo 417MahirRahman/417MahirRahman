@@ -2,6 +2,7 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mefazur Rahman 👋 I'm a 🚀 Full-Stack Developer">
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=417MahirRahman)](https://git.io/streak-stats)
 <!--
 **417MahirRahman/417MahirRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
