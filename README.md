@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a Front-End Developer with a strong passion for creating clean, responsive, and user-focused web experiences. He enjoys turning ideas into functional interfaces using modern web technologies and continuously sharpens his skills by building real-world projects and exploring new tools to grow as a creative developer</p>
+<p align="left">I'm a MERN Stack Developer with a strong passion for creating clean, responsive, and user-focused web experiences. He enjoys turning ideas into functional interfaces using modern web technologies and continuously sharpens his skills by building real-world projects and exploring new tools to grow as a creative developer</p>
 
 ###
 
